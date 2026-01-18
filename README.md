@@ -7,3 +7,4 @@
 "hw_9.2 Control Flow.ipynb" - М9.ДЗ.Control Flow
 "hw_9.3 Цикл for.ipynb" - М9.ДЗ.Цикл for
 "hw_9.3 Comprehensions.ipynb" - М9.ДЗ.Comprehension в Python
+"hw_9.3 Цикл while.ipynb" - М9.ДЗ.Цикл while
