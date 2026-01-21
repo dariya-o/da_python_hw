@@ -8,4 +8,5 @@
 "hw_9.3 Цикл for.ipynb" - М9.ДЗ.Цикл for
 "hw_9.3 Comprehensions.ipynb" - М9.ДЗ.Comprehension в Python
 "hw_9.3 Цикл while.ipynb" - М9.ДЗ.Цикл while
-"hw_9.4 Функції. Основи.ipynb" - М9.ДЗ.Функції.Основи.
+"hw_9.4 Функції. Основи.ipynb" - М9.ДЗ.Функції.Основи
+"hw_9.4 Функції.Продовження.ipynb" - М9.ДЗ.Функції.Продовження
