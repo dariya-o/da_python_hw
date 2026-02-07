@@ -15,3 +15,4 @@
 "hw_10.1 Введення в Pandas та NumPy.ipynb" - М10.ДЗ.Введення у Pandas та Numpy
 "hw_10.2 Основи роботи з даними в Pandas.ipynb" - М10.ДЗ.Основи роботи з даними у Pandas
 "hw_10.3 Розширені методи обробки даних у Pandas.ipynb" - М10.ДЗ.Розширені методи обробки даних у Pandas
+"hw_10.4 Застосувати, групування, pivot_table.ipynb" - М10.ДЗ.Apply, groupby, pivot_table
