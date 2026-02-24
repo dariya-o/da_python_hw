@@ -18,3 +18,4 @@
 "hw_10.4 Apply, groupby, pivot_table.ipynb" - М10.ДЗ.Apply, groupby, pivot_table
 "HW_11.1. Візуалізація_даних_з_Pandas.ipynb" - М11.ДЗ.Візуалізація даних з Pandas
 "HW_11.2. Візуалізація даних з Matplotlib.ipynb" - М11.ДЗ.Візуалізація даних з Matplotlib
+"HW_11.3. Статистичні візуалізації з Seaborn.ipynb" - - М11.ДЗ.Статистичні візуалізації з Seaborn
