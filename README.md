@@ -16,3 +16,4 @@
 "hw_10.2 Основи роботи з даними в Pandas.ipynb" - М10.ДЗ.Основи роботи з даними у Pandas
 "hw_10.3 Розширені методи обробки даних у Pandas.ipynb" - М10.ДЗ.Розширені методи обробки даних у Pandas
 "hw_10.4 Apply, groupby, pivot_table.ipynb" - М10.ДЗ.Apply, groupby, pivot_table
+"HW_11.1. Візуалізація_даних_з_Pandas.ipynb" - М11.ДЗ.Візуалізація даних з Pandas
